@@ -1,7 +1,7 @@
 # instaclone
 This Application is a clone of instagram UI with backend server that do some simple operation, also firebase was used to make authentication and save images.
 ![login](https://github.com/shymaa-arkoub/instaclone/blob/main/Images/login.PNG)
-
+![signup](https://github.com/shymaa-arkoub/instaclone/blob/main/Images/signup.PNG)
 #Reference:
 1. Introduction & Project Setup: https://youtu.be/r7DgYAULBqU
 2. Complete UI Development Using React: https://youtu.be/1uSQpwJGUhY
